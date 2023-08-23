@@ -1,0 +1,27 @@
+{
+  "continueText": "CONTINUE",
+  "checkIn": "CHECK IN",
+  "titleInputDateOfBirth": "PLEASE INPUT YOUR DATE OF BIRTH TO CHECK IN!",
+  "back": "Back",
+  "hintIDontHaveAppointment": "NO, I DO NOT",
+  "hintIHaveAppointment": "YES, I DO !",
+  "welcomeMessage": "Welcome To MetaDent Self Checkin.",
+  "doYouHaveAppointment": "Do You Have An Appointment?",
+  "newAppointment": "New Appointment",
+  "fillDetailsToCreateAppointment": "Fill In These Details To Create An Appointment",
+  "firstName": "FIRST NAME",
+  "lastName": "LAST NAME",
+  "dateOfBirth": "DATE OF BIRTH",
+  "treatmentType": "TREATMENT TYPE",
+  "saveAppointment": "SAVE APPOINTMENT",
+  "selectTreatmentType": "Select treatment type",
+  "checkAvailableSlots": "CHECK AVAILABLE SLOTS",
+  "alertFillDateOfBirth": "Please fill in your date of birth",
+  "hintSelectSlot": "Please select a slot",
+  "selectSlot": "SELECT SLOT",
+
+  "errorFirstnameMissing": "First name is required",
+  "errorLastnameMission": "Last name is required",
+  "errorDobMissing": "Date of birth is required",
+  "errorSelectTreatmentMission": "Please select treatment"
+}

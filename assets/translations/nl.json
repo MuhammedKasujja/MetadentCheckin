@@ -1,0 +1,28 @@
+{
+    "continueText": "DOORGAAN",
+    "checkIn": "INCHECKEN",
+    "titleInputDateOfBirth": "VUL UW GEBOORTEDATUM IN OM IN TE CHECKEN!",
+    "back": "Terug",
+    "hintIDontHaveAppointment": "NEE, DAT HEB IK NIET",
+    "hintIHaveAppointment": "JA, DAT HEB IK!",
+    "welcomeMessage": "Welkom bij MetaDent Self Checkin.",
+    "doYouHaveAppointment": "Heeft u een afspraak?",
+    "newAppointment": "Nieuwe afspraak",
+    "fillDetailsToCreateAppointment": "Vul deze gegevens in om een afspraak te maken",
+    "firstName": "VOORNAAM",
+    "lastName": "ACHTERNAAM",
+    "dateOfBirth": "GEBOORTEDATUM",
+    "treatmentType": "BEHANDELINGSTYPE",
+    "saveAppointment": "AFSPRAAK OPSLAAN",
+    "selectTreatmentType": "Selecteer behandelingstype",
+    "checkAvailableSlots": "BESCHIKBARE TIJDEN CONTROLEREN",
+    "alertFillDateOfBirth": "Vul uw geboortedatum in",
+    "hintSelectSlot": "Selecteer alstublieft een tijdslot",
+    "selectSlot": "TIJDSTIP SELECTEREN",
+  
+    "errorFirstnameMissing": "Voornaam is verplicht",
+    "errorLastnameMission": "Achternaam is verplicht",
+    "errorDobMissing": "Geboortedatum is verplicht",
+    "errorSelectTreatmentMission": "Selecteer alstublieft een behandeling"
+  }
+  
